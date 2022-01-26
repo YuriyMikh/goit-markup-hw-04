@@ -307,7 +307,7 @@ body {
 }
 
 .icon-antenna::before {
-  background-image: url('/goit-markup-hw-04/images/antenna-1.svg');
+  background-image: url(../images/antenna-1.svg);
 }
 
 .icon-clock::before {
